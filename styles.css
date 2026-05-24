@@ -185,6 +185,11 @@ a { color: inherit; text-decoration: none; }
   box-shadow: var(--shadow);
 }
 
+.notice:first-child {
+  background: #ffe27a;
+  border-color: #f0c94c;
+}
+
 .notice span {
   width: 34px;
   height: 34px;
