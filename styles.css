@@ -129,7 +129,7 @@ a { color: inherit; text-decoration: none; }
 
 .pill {
   border: 0;
-  background: var(--lime);
+  background: #d93636;
   color: #fff;
   border-radius: 999px;
   height: 34px;
